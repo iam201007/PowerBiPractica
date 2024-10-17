@@ -1,3 +1,7 @@
+Archivo definitivo:
+Ventas.pbix
+Incluye los archivos csv que fueron generados con la macro contenida en "GeneradorTickets.xlsm". El código por separado, está en el archivo bas.
+
 Transformar columnas.
 https://microsoftlearning.github.io/PL-300-Microsoft-Power-BI-Data-Analyst/Instructions/Labs/02-load-data-with-power-query-in-power-bi-desktop.html
 
